@@ -10,3 +10,5 @@ Wchodząc na `http://localhost:8080/greeting`, użytkownik widzi widok `greeting
    - `http://localhost:8080/greeting?name=Wiktor` wyświetli wiadomość **"Hello, Wiktor!"**.
    - Jeśli parametr `name` nie jest podany, domyślnie zostanie wyświetlone **"Hello, World!"**.
 
+## Autor:
+- Wiktor Kulpiński nr albumu: 63502
